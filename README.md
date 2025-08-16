@@ -1,20 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Ad Sales Predictor - Frontend
 
-# Run and deploy your AI Studio app
+This repository contains the source code for the interactive frontend of the Scalable ML Service project. It is a modern React/TypeScript application built with Vite and styled with Tailwind CSS.
 
-This contains everything you need to run your app locally.
+This application is deployed on Vercel and communicates with a separate, containerized Flask API hosted on Render.
 
-View your app in AI Studio: https://ai.studio/apps/drive/17tdOwDM4-MP3znq8uTnt5TXca2iP8532
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**[➡️ Live Demo](https://ad-sales-predictor-frontend.vercel.app/)** | **[📂 Backend API Source Code](https://github.com/MdEhsanulHaqueKanan/Scalable-ML-Service-Ad-Sales-Prediction-with-CI-CD-and-MLflow)**
