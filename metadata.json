@@ -1,0 +1,5 @@
+{
+  "name": "Scalable ML Service: Ad Sales Predictor",
+  "description": "A modern web application that leverages a generative model to predict ad sales based on campaign data. The UI features a sleek, tech-forward 'Data & Growth' theme with glassmorphism and animated effects.",
+  "requestFramePermissions": []
+}
